@@ -13,13 +13,13 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-top-color: Grey;
-  border-width: 0.3125rem;
+  border-width: 5px;
   width: 5%
 }
 
 h1 {
-  margin-top: 312.5%;
-  margin-bottom: 62.5%;
+  margin-top: 50px;
+  margin-bottom: 10px;
   font-family: 'Dancing Script', cursive;
   font-size: 5.6rem;
   color: #48466D;
@@ -28,9 +28,9 @@ h1 {
 h2 {
   font-family: 'Sacramento', sans-serif;
   font-size: 3.125rem;
-  margin-bottom: 62.5%;
+  margin-bottom: 10px;
   margin-top: 0;
-  padding-top: 125%;
+  padding-top: 20px;
   color: #48466D;
 }
 
@@ -43,67 +43,67 @@ h3 {
 .TopSection {
   background-color: #DEFCF9;
   position: relative;
-  padding-top: 625%;
+  padding-top: 100px;
 }
 
 .sun {
   position: absolute;
-  left: 125%;
-  top: 125%;
-  height: 782%;
+  left: 20px;
+  top: 20px;
+  height: 125px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 1875%;
-  top: 312%;
+  right: 300px;
+  top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 1875%;
-  bottom: 1875%;
+  left: 300px;
+  bottom: 300px;
 }
 
 .profile {
-  padding-bottom: 250%;
+  padding-bottom: 40px;
   width: 50%;
-  margin: 312.5% auto 312.5% auto;
+  margin: auto;
   text-align: center;
 }
 
 .profile-pic {
-  height: 1875%;
-  margin-top: 250%;
+  height: 300px;
+  margin-top: 40px;
 }
 
 .skills {
-  padding-bottom: 250%;
+  padding-bottom: 40px;
 }
 
 .skill-row {
   width: 50%;
-  margin: 312.5% auto 312.5% auto;
+  margin: 50px auto 50px auto;
   text-align: justify;
 }
 
 .Design {
-  width: 250%;
+  width: 40%;
   float: left;
-  margin-right: 187%;
-  margin-bottom: 187%;
+  margin-right: 30px;
+  margin-bottom: 30px;
 }
 
 .Digital {
   width: 40%;
   float: right;
-  margin-right: 187%;
-  margin-top: 312%;
+  margin-right: 30px;
+  margin-top: 50px;
 }
 
 .contact-me {
-  padding-top: 125%;
-  width: 187%;
+  padding-top: 20px;
+  width: 30%;
   margin: auto;
 }
 
@@ -149,14 +149,14 @@ position: static
 
 .end {
   color: white;
-  padding: 125% 0;
+  padding: 20px 0;
   font-size: 0.75rem;
 }
 
 a {
 color: #3D84A8;
 font-family: 'Montserrat', sans-serif;
-margin: 62.5% 125%;
+margin: 10px 20px;
 text-decoration: none;
 }
 
@@ -166,7 +166,7 @@ color: white;
 
 .BottomSection {
   background-color: #48466D;
-  margin-top: 250%;
-  padding-top: 31%;
-  padding-bottom: 125%;
+  margin-top: 40px;
+  padding-top: 5px;
+padding-bottom: 20px;
 }
